@@ -12,7 +12,7 @@ Main points:
 
 * Code is added to pass the tests.
 
-* Test is passed, now we can add the next line of code.
+* Test is passed, now we can add the next test BEFORE! adding another line of code.
 
 ![TDD cycle](pictures/TDD_CYCLE.jpg)
 
