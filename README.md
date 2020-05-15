@@ -14,16 +14,15 @@ Main points:
 
 * Test is passed, now we can add the next line of code.
 
+![TDD cycle](pictures/TDD_CYCLE.jpg)
+
 ## Why
 
 It encourages team members to think away from the code and focus more on the user perspective.
 
-
-![TDD cycle](pictures/TDD_CYCLE.jpg)
-
 Rspec docker testing repo
 
-## Disclaimer:
+## Disclaimer
 
 ![TDD](pictures/TDD.jpg)
 
