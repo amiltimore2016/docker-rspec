@@ -18,9 +18,16 @@ Main points:
 
 ## Why
 
-It encourages team members to think away from the code and focus more on the user perspective.
+* It encourages team members to think away from the code and focus more on the user perspective.
 
-Rspec docker testing repo
+* As code grows in size and complexity it is very hard to backtrack and start unit testing or understand where 
+code is failing.
+
+## How
+
+* Use rspec testing framework and docker-api gems.
+
+* Create some helper functions to do some basic system validation. How would you validate a server manually?
 
 ## Disclaimer
 
