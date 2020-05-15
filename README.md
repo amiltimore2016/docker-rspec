@@ -1,6 +1,6 @@
 # docker-rspec
 
-# What:
+## What:
 
 Understand how to setup Dockerfile tdd.
 
