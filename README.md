@@ -29,6 +29,8 @@ code is failing.
 
 * Create some helper functions to do some basic system validation. How would you validate a server manually?
 
+* You need rvm and docker installed.
+
 ## Disclaimer
 
 ![TDD](pictures/TDD.jpg)
