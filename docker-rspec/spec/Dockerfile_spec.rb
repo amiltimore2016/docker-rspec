@@ -16,9 +16,14 @@ describe "Dockerfile" do
   it 'installs the right version of Ubuntu' do
     expect(os_version).to include("Ubuntu 18")
   end
+  
+  it 'installs the required package' do
+    expect(package("nodejs")).to be_installed
+  end
 
   def os_version
     command("cat /etc/issue").stdout
   end
 end
+
 
